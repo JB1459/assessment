@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム  (ISC License)
+あなたのいいところ診断ゲーム 
